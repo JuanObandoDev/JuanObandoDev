@@ -10,6 +10,6 @@
     <img src="https://img.shields.io/badge/CSS-01A3D8?logo=css3&logoColor=FFFFFF&style=for-the-badge" />
     <img src="https://img.shields.io/badge/PHP-474A8A?logo=PHP&logoColor=FFFFFF&style=for-the-badge" />
     <img src="https://img.shields.io/badge/MYSQL-00758F?logo=MYSQL&logoColor=FFFFFF&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/POSTGRESQL-0064a5?logo=POSTGRESQL&logoColor=FFFFFF&style=for-the-badge
+    <img src="https://img.shields.io/badge/POSTGRES-0064a5?logo=POSTGRES&logoColor=FFFFFF&style=for-the-badge
 </div>
 <br>
