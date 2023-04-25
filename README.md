@@ -29,7 +29,7 @@
         <p>• Strong teamwork</p>
     </ul>
 </p>
-<p align="center">• I give priority to details and I promise to give the necessary effort to achieve my goals and those of my work team.</p>
+<p align="center">I give priority to details and I promise to give the necessary effort to achieve my goals and those of my work team.</p>
 <br>
 <h2 align="center">Contact</h2>
 <div align="center">
