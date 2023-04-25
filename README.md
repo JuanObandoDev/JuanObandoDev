@@ -5,19 +5,19 @@
 <br>
 <h2 align="center">Skills</h2>
 <div align="center">
-    <img src="https://img.shields.io/badge/JavaScript-FEFF01?logo=javascript&logoColor=000000&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/HTML-EC6231?logo=html5&logoColor=FFFFFF&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/CSS-01A3D8?logo=css3&logoColor=FFFFFF&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-FEFF01?logo=javascript&logoColor=000&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-EC6231?logo=html5&logoColor=FFF&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-264de4?logo=css3&logoColor=FFF&style=for-the-badge" />
     <br>
-    <img src="https://img.shields.io/badge/PHP-474A8A?logo=php&logoColor=FFFFFF&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/MYSQL-00758F?logo=mysql&logoColor=FFFFFF&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/PostgreSQL-0064a5?logo=postgresql&logoColor=FFFFFF&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-474A8A?logo=php&logoColor=FFF&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-00758F?logo=mysql&logoColor=fff&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-0064a5?logo=postgresql&logoColor=FFF&style=for-the-badge" />
     <br>
-    <img src="https://img.shields.io/badge/Python-0000FF?logo=python&logoColor=FFFFFF&style=for-the-badge" />    
-    <img src="https://img.shields.io/badge/MongoDB-589636?logo=mongodb&logoColor=FFFFFF&style=for-the-badge" />  
-    <img src="https://img.shields.io/badge/Go-29beb0?logo=go&logoColor=FFFFFF&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-FFD43B?logo=python&logoColor=646464&style=for-the-badge" />    
+    <img src="https://img.shields.io/badge/-589636?logo=mongodb&logoColor=FFF&style=for-the-badge" />  
+    <img src="https://img.shields.io/badge/-29beb0?logo=go&logoColor=FFF&style=for-the-badge" />
     <br>
-    <img src="https://img.shields.io/badge/React-61dbfb?logo=react&logoColor=FFFFFF&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-61dbfb?logo=react&logoColor=000&style=for-the-badge" />
 </div>
 <br>
 <h2 align="center">Soft Skills</h2>
