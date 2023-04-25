@@ -18,12 +18,13 @@
 </div>
 <br>
 <h2 align="center">Soft Skills</h2>
-<p align="center">• Besides to my tech skills, I've soft skills:
-    <ul>
+<p align="center">Besides to my tech skills, I've soft skills like:
+    <ul align="center">
         <li>creativity</li>
         <li>innovation</li>
         <li>problem solving skills</li>
         <li>strong teamwork</li>
+    </ul>
 </p>
 <p align="center">• I give priority to details and I promise to give the necessary effort to achieve my goals and those of my work team.</p>
 <br>
