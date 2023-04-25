@@ -19,8 +19,8 @@
 <br>
 <h2 align="center">Soft Skills</h2>
 <p align="center">Besides to my tech skills, I've soft skills like:
-    <ul align="center">
-        <li>creativity</li>
+    <ul>
+        <li align="center">creativity</li>
         <li>innovation</li>
         <li>problem solving skills</li>
         <li>strong teamwork</li>
