@@ -1,4 +1,4 @@
-<h1 align="center"><img src="/images/handshake.webp?raw=true" width="30px"/> ¡Hi! I'm $\normalsize\color{rgb(1,246,162)}{\textsf{JuanObandoDev}}$</h1>
+<h1 align="center">¡Hi! I'm $\normalsize\color{rgb(1,246,162)}{\textsf{JuanObandoDev}}$</h1>
 <p align="center">$\normalsize\color{rgb(1,246,162)}{\textsf{Front-End}}$ web developer. I'm learning $\normalsize\color{rgb(1,246,162)}{\textsf{Backend}}$ and $\normalsize\color{rgb(1,246,162)}{\textsf{Typescript}}$</p>
 <p align="center">I'm faithful to self-taught learning, I'm known for learning very quickly, I'm someone who is very creative and I like to innovate with new ideas.</p>
 <p align="center">I love a cup of tea!</p>
