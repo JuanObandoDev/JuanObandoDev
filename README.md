@@ -17,3 +17,11 @@
     <img src="https://img.shields.io/badge/React-61dbfb?logo=react&logoColor=FFFFFF&style=for-the-badge" />
 </div>
 <br>
+<h2 align="center">Soft Skills</h2>
+<p align="center">Besides to my tech skills, I've soft skills such as creativity, innovation, problem solving skills and strong teamwork.</p>
+<p align="center">I give priority to details and I promise to give the necessary effort to achieve my goals and those of my work team.</p>
+<br>
+<h2 align="center">Contact</h2>
+<div align="center">
+    <a href="mailto:juanobando.developer@gmail.com"><p>📧 juanobando.developer@gmail.com</p></a>
+</div>
