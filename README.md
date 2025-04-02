@@ -1,5 +1,5 @@
 <h1 align="center">¡Hi! I'm JuanObandoDev</h1>
-<p align="center">$\normalsize\color{rgb(1,246,162)}{\textsf{Front-End}}$ web developer. I'm learning $\normalsize\color{rgb(1,246,162)}{\textsf{Backend}}$ and $\normalsize\color{rgb(1,246,162)}{\textsf{Typescript}}$</p>
+<p align="center">$\normalsize\color{rgb(1,246,162)}{\textsf{Backend}}$ web developer. I'm learning $\normalsize\color{rgb(1,246,162)}{\textsf{C#}}$</p>
 <p align="center">I'm faithful to self-taught learning, I'm known for learning very quickly, I'm someone who is very creative and I like to innovate with new ideas.</p>
 <p align="center">I love a cup of tea!</p>
 <br>
